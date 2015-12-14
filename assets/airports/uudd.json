@@ -124,6 +124,58 @@
       ],
       "frequency": [1,2,3,4,5,6],
       "altitude": [5000, 7000]
+    },
+    {
+      "radial": 140,
+      "heading": 10,
+      "speed": 380,
+      "fixes":  ["XSE"],
+      "airlines": [
+        ["ual", 3],
+        ["baw", 2],
+        ["fastga", 1]
+      ],
+      "frequency": [1,2,3,4,5,6],
+      "altitude": [5000, 7000]
+    },
+    {
+      "radial": 45,
+      "heading": 220,
+      "speed": 460,
+      "fixes":  ["XNE"],
+      "airlines": [
+        ["ual", 3],
+        ["baw", 2],
+        ["fastga", 1]
+      ],
+      "frequency": [1,2,3,4,5,6],
+      "altitude": [5000, 7000]
+    },
+    {
+      "radial": 340,
+      "heading": 180,
+      "speed": 350,
+      "fixes":  ["XN"],
+      "airlines": [
+        ["ual", 3],
+        ["baw", 2],
+        ["fastga", 1]
+      ],
+      "frequency": [1,2,3,4,5,6],
+      "altitude": [5000, 7000]
+    },
+    {
+      "radial": 223,
+      "heading": 30,
+      "speed": 3300,
+      "fixes":  ["XSW"],
+      "airlines": [
+        ["ual", 3],
+        ["baw", 2],
+        ["fastga", 1]
+      ],
+      "frequency": [1,2,3,4,5,6],
+      "altitude": [5000, 7000]
     }
   ]
 }
