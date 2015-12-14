@@ -1,6 +1,6 @@
 {
-  "name": "HEADING-EXCERSISE",
-  "level": "easy",
+  "name": "HEADINGEXCERSISE",
+  "level": "hard",
   "radio": "Central control",
   "icao": "EXCE",
   "iata": "XCE",
@@ -8,11 +8,11 @@
   "ctr_radius": 150,
   "wind": {
     "angle": 240,
-    "speed": 0
+    "speed": 1
   },
   "fixes": {
-    "RICK1":[9.4,2.47],
-    "RICK2":[7.63,4.47],
+    "LOB":[9.4,2.47],
+    "LOP":[7.63,4.47],
     "LOZ":[-0.93,-8.4],
     "IBX":[0.33,-2.64],
     "IBL":[3.91,0.28],
@@ -34,6 +34,35 @@
     "REMBA":[31.93,-25.59],
     "PABLI":[33.26,-32.9]
   },
+  "runways": [
+    {
+      "name": ["19", "01"],
+      "name_offset": [[0, 0], [0, 0]],
+      "position": [0.870, -0.215],
+      "angle": 194.43,
+      "length": 2.987,
+      "delay": [10, 30],
+      "ils": [true, true]
+    },
+    {
+      "name": ["25L", "07R"],
+      "name_offset": [[0, 0], [0, 0]],
+      "position": [1.343, -0.757],
+      "angle": 249.89,
+      "length": 3.221,
+      "delay": [40, 20],
+      "ils": [true, false]
+    },
+    {
+      "name": ["25R","07L"],
+      "name_offset": [[0.4, 0.4], [-0.2, 0]],
+      "position": [-0.376, 0.479],
+      "angle": 245.38,
+      "length": 3.638,
+      "delay": [10, 30],
+      "ils": [true, false]
+    }
+  ],
   "departures": {
     "airlines": [
       ["ual", 3],
