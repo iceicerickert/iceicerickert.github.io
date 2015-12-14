@@ -6,7 +6,7 @@
   "eiap": "http://www.belgocontrol.be/website/eaip/eAIP_Main/html/eAIP/EB-AD-2.EBBR-en-GB.html",
   "ctr_radius": 90,
   "wind": {
-    "angle": 240,
+    "angle": 90,
     "speed": 0
   },
   "fixes": {
@@ -86,10 +86,10 @@
   ],
   "runways":[
     {
-      "name":        ["27","09"],
+      "name":        ["09","27"],
       "name_offset": [[0,0], [0,0]],
       "position":    [10, -70],
-      "angle":       270,
+      "angle":       90,
       "length":      3.9,
       "delay":       [10, 30],
       "ils":         [false, false]
