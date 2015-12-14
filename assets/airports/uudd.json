@@ -1,15 +1,12 @@
 {
-  "name": "Moscow Domodedovo Airport",
+  "name": "Heading Excersise",
   "level": "hard",
-  "radio": "Domodedovo",
-  "icao": "UUDD",
-  "ctr_radius": 70,
-  "magnetic_north": 10.8, 
-  "position": ["N55.408611", "E37.906389"],
-
+  "radio": "Central Control",
+  "icao": "EXCE",
+  "ctr_radius": 150,
   "wind": {
     "angle": 2,
-    "speed": 5
+    "speed": 0
   },
   "fixes": {
     "ABMAS": ["N55d35m49", "E37d51m05"],
