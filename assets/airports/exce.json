@@ -1,14 +1,14 @@
 {
-  "name": "HEADINGEXCERSISE",
+  "name": "heading-excersise",
   "level": "hard",
-  "radio": "Central control",
-  "icao": "EXCE",
-  "iata": "XCE",
+  "radio": "Brussels",
+  "icao": "EBBR",
+  "iata": "BRU",
   "eiap": "http://www.belgocontrol.be/website/eaip/eAIP_Main/html/eAIP/EB-AD-2.EBBR-en-GB.html",
-  "ctr_radius": 150,
+  "ctr_radius": 80,
   "wind": {
-    "angle": 240,
-    "speed": 1
+    "angle": 230,
+    "speed": 6
   },
   "fixes": {
     "LOB":[9.4,2.47],
