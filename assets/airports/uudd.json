@@ -3,7 +3,7 @@
   "level": "hard",
   "radio": "Central Control",
   "icao": "EXCE",
-  "ctr_radius": 150,
+  "ctr_radius": 80,
   "wind": {
     "angle": 2,
     "speed": 0
