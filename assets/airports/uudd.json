@@ -167,7 +167,7 @@
     {
       "radial": 223,
       "heading": 30,
-      "speed": 3300,
+      "speed": 330,
       "fixes":  ["XSW"],
       "airlines": [
         ["ual", 3],
